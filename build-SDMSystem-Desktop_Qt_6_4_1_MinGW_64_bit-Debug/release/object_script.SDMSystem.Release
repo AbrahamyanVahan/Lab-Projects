@@ -1,0 +1,12 @@
+release/frame.o
+release/main.o
+release/mainsdms.o
+release/mainwindow.o
+release/registerwindow.o
+release/taskframe.o
+release/qrc_images.o
+release/moc_frame.o
+release/moc_mainsdms.o
+release/moc_mainwindow.o
+release/moc_registerwindow.o
+release/moc_taskframe.o

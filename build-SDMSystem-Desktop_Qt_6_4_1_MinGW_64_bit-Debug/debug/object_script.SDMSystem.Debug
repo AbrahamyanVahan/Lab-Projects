@@ -1,0 +1,12 @@
+debug/frame.o
+debug/main.o
+debug/mainsdms.o
+debug/mainwindow.o
+debug/registerwindow.o
+debug/taskframe.o
+debug/qrc_images.o
+debug/moc_frame.o
+debug/moc_mainsdms.o
+debug/moc_mainwindow.o
+debug/moc_registerwindow.o
+debug/moc_taskframe.o
